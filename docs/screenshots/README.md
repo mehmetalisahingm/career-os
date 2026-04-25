@@ -1,10 +1,11 @@
-# Screenshot Placeholders
+# Screenshot Guide
 
-Add portfolio screenshots here after running the project locally.
+Add polished screenshots here for the README and portfolio site.
 
-Suggested captures:
+Suggested files:
 
-- login page
-- dashboard list view
-- dashboard kanban view
-- application detail area with notes, interviews, and reminders
+- `screen1.png`
+- `login-page.png`
+- `dashboard-list.png`
+- `dashboard-kanban.png`
+- `application-detail.png`

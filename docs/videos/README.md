@@ -1,16 +1,14 @@
-# Video Capture Notes
+# Demo Recording Guide
 
-Add a short walkthrough GIF or MP4 here for the repository README and portfolio use.
+## Scenario
 
-Suggested asset names:
+1. Login
+2. Navigate main feature
+3. Trigger core functionality
+4. Show real-time or async behavior
+5. Show result
 
-- `careeros-demo.gif`
-- `careeros-demo.mp4`
+## Output
 
-Suggested capture flow:
-
-1. Sign in with the demo account.
-2. Show list and kanban views.
-3. Create a company and a new application.
-4. Update the status of an application.
-5. Add a reminder, note, and interview record.
+- `demo.gif`
+- `demo.mp4`

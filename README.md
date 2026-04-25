@@ -32,6 +32,10 @@ The goal was not to make "another CRUD dashboard." The goal was to build a reali
 
 ## Demo
 
+![Demo](./docs/videos/demo.gif)
+
+- Video placeholder: [`docs/videos/demo.mp4`](./docs/videos/demo.mp4)
+
 ### Suggested Walkthrough
 
 1. Sign in with the demo account.
@@ -58,7 +62,7 @@ flowchart LR
   Services --> Audit["Audit Log Writer"]
 ```
 
-## What This Project Demonstrates
+## What It Demonstrates
 
 - product thinking beyond a basic dashboard
 - modeling a multi-entity relational workflow
@@ -161,7 +165,13 @@ Authorization logic in the application layer is easy to read and discuss. The tr
 - Vitest
 - Playwright
 
-## Local Setup
+## Screenshots
+
+![Primary Screenshot Placeholder](./docs/screenshots/screen1.png)
+
+Screenshot guide: [`docs/screenshots/README.md`](./docs/screenshots/README.md)
+
+## Quick Start
 
 ### 1. Install dependencies
 
